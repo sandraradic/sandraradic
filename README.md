@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+(she/her)
+
+I am a second year undergraduate student studying Cognitive Systems at UBC, who is passionate about technology, particularly from the perspective of computer and brain intelligence.
+
+I am currently working on object oriented design programs in Java.
