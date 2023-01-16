@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 (she/her)
 
-I am a third year undergraduate student studying Cognitive Systems at UBC, who is passionate about technology, particularly from the perspective of computer and brain intelligence.
+I am a fourth year undergraduate student studying Computational Intelligence & Design at UBC, who is passionate about technology, particularly from the perspective of computer and brain intelligence. I've recently also taken on a minor in Data Science! 
 
-I am currently working on object oriented design programs in Java.
+I am currently mostly working on programs in Python, and learning data visualization methods using Altair.
